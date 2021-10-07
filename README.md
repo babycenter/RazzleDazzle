@@ -1,3 +1,5 @@
+# Note, this is a dependency for BabyNames iOS app, do not delete!
+
 [![Open Source at IFTTT](http://ifttt.github.io/images/open-source-ifttt.svg)](http://ifttt.github.io)
 
 ![RazzleDazzle](./Example/Docs/razzledazzlebanner.jpg)
